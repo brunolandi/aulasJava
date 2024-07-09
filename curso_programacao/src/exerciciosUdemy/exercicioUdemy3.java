@@ -1,3 +1,4 @@
+package exerciciosUdemy;
 import java.util.Scanner;
 
 public class exercicioUdemy3 {

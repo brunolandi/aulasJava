@@ -1,7 +1,8 @@
+package exerciciosUdemy;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class excericioUdemy7 {
+public class exercicioUdemy7 {
 
 	public static void main(String[] args) {
 
