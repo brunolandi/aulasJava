@@ -7,11 +7,21 @@ public class EntradadeDeDados {
 		//Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		String x;
-		int y;
-		double z;
+		int a = 10, b, x;
 		
-				
+		
+		String nome = "Jordan";
+		
+		System.out.println("Digite o valor de A");
+		a = sc.nextInt();
+		System.out.println("Digite o valor de B");
+		b = sc.nextInt();
+		
+		
+		x = a * b;
+		
+		
+		/*
 		System.out.println("Digite algum valor STRING: ");
 		x = sc.next();
 		System.out.println("Valor registrado");
@@ -25,7 +35,9 @@ public class EntradadeDeDados {
 		System.out.println("Valor registrado");
 		
 		System.out.printf("Dados digitados: %n" + x + "\n" + y + "\n" + z);
-		
+		*/
+		System.out.println("Bruno");
+		System.out.println(x);
 		
 		
 		sc.close();

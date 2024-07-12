@@ -48,6 +48,8 @@ public class exercicioEstrutura5 {
 			double total = quantidade * 1.50;
 			System.out.printf("Total a pagar = R$ %.2f", total);
 			
+		}else {
+			System.out.println("Valor inserido inválido");
 		}
 		
 		sc.close();
